@@ -9,7 +9,7 @@
 
 * Summarised the pollution reduction benefits and costs from construction and fuel reduction. 
 
-[](images/boats.png)
+[](/images/boats.png)
 
 [Study Group website](https://gateway.newton.ac.uk/event/tgm112)
 
@@ -21,4 +21,4 @@
 * NERC and UKRI have asked us for permission to use our research results for government policy consulting.  
 
 * Our team the Bath Air Squad won the 1st price from UKRI, and the paper and code are published on the Github repository.  
-[](/main/images/covid.png)
+[](/images/covid.png)
