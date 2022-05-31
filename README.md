@@ -21,3 +21,4 @@
 * NERC and UKRI have asked us for permission to use our research results for government policy consulting.  
 
 * Our team the Bath Air Squad won the 1st price from UKRI, and the paper and code are published on the Github repository.  
+[](https://github.com/yz3259/yz3259.github.io/blob/main/images/covid.png)
