@@ -9,7 +9,7 @@
 
 * Summarised the pollution reduction benefits and costs from construction and fuel reduction. 
 
-[](/images/boats.png)
+[](images/boats.png)
 
 [Study Group website](https://gateway.newton.ac.uk/event/tgm112)
 
