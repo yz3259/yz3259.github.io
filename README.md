@@ -8,7 +8,7 @@
 * Modelled the instance energy requirements based on vessel registration data and provided estimated prediction for energy demand weekly. 
 
 * Summarised the pollution reduction benefits and costs from construction and fuel reduction. 
-
+[](https://github.com/yz3259/yz3259.github.io/blob/main/images/boats.png)
 [Study Group website](https://gateway.newton.ac.uk/event/tgm112)
 
 ## Project 2: [Spread of COVID-19 and Air Pollution – UKRI Hackathon](https://github.com/Piotr-Morawiecki/BathAirSquad_NERCHackathonOne)
