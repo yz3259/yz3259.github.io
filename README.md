@@ -1,5 +1,9 @@
 # Tina Portfolio
 
+Hi I am a 4th year PhD student with the University of Bath and the UK Met Office. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yz3259)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Project 1:  Transport Logistics Shorepower modelling
 (Mar 2022) Virtual Study Group:
 
